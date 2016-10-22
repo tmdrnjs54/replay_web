@@ -1,0 +1,39 @@
+*{margin:0;padding:0;}
+ul{list-style:none;}
+dd{font-size:12px;color:#666;line-height:16px}
+
+
+.clear{clear:both;}
+.wrap{ min-width:600px;height:auto;background-color:#b95e43}
+.day{font-size:18px;color:#fff;}
+.header{width:100%;display:inline-block;height:14px;padding:10px;text-align:center;font-size:15px;color:#eed9d3;}
+.main_img{margin:0 5px 0 5px;}
+.btm{margin:0 5px 5px 5px;background-color:white;}
+.title{float:left;margin-left:16px;font-size:16px;color:#000;font-weight:bolder;}
+.fd_name{width:98%;float:left;height:25px;padding:6px 16px 6px 0
+;border-top-style:solid;
+border-bottom-style:solid;border-width:1px;border-color:#d0d0d0}
+.like{display:inline-block;width:14px;height:12px;background:url(images/bg_recipe.png) no-repeat;}
+.like_num{display:inline-block;color:#ef7813;font-size:12px}
+.txt_bye{text-indent:-9999px}
+.go_{float:right;}
+
+.bckimg1{margin:16px 0 9px 16px;float:left;width:42px;height:12px;background:url(images/bg_recipe.png) no-repeat;background-position:0 -20px; text-indent:-9999px}
+.bckimg2{margin:16px 0 9px 16px;float:left;width:42px;height:12px;background:url(images/bg_recipe.png) no-repeat;background-position:0 -40px; text-indent:-9999px}
+.bckimg3{margin:16px 0 9px 16px;float:left;width:31px;height:12px;background:url(images/bg_recipe.png) no-repeat;background-position:0 -60px; text-indent:-9999px}
+.bckimg4{margin:9px 0 9px 16px;float:left;width:42px;height:12px;background:url(images/bg_recipe.png) no-repeat;background-position:0 -80px; text-indent:-9999px}
+
+.bck1{float:left; margin:14px 0 9px 9px;}
+.bck2{float:left; margin:14px 0 9px 9px;}
+.bck3{float:left; margin:14px 0 9px 9px;}
+.bck4{float:left; margin:8px 0 24px 9px;}
+
+.wrap_li{display:inline-block;position:relative;}
+.hide{margin:0 0 10px 16px;width:88px;height:12px;background:url(images/bg_recipe.png) no-repeat;background-position:0 -100px; text-indent:-9999px}
+
+.cas{position:absolute;right:130px;top:0;width:19px;height:19px;background:url(images/bg_recipe.png) no-repeat;background-position:-50px 0; text-indent:-9999px}
+.twi{position:absolute;right:157px;top:0;width:19px;height:19px;background:url(images/bg_recipe.png) no-repeat;background-position:-80px 0; text-indent:-9999px}
+.fac{position:absolute;right:184px;top:0;width:19px;height:19px;background:url(images/bg_recipe.png) no-repeat;background-position:-110px 0; text-indent:-9999px}
+
+.sub_fd{float:left;margin:5px 5px 0 5px;}
+.sub_fd2{margin-left:17px}
